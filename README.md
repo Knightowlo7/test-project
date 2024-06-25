@@ -3,4 +3,4 @@
 `git checkout -b branch-name` 
 ## commit changes
 `git add .` 
-`git commit-m` "added new readme"
+`git commit -m "added new readme"`
